@@ -4,6 +4,7 @@ import {Routes,Route} from 'react-router-dom'
 import Navbar from "./navbars/Navbar";
 import './App.css'
 import Portfolio from "./component/Portfolio";
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     

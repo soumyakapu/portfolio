@@ -2,8 +2,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Portfolio = ()=>{
     return(
         <div className='container'>
-            <h1>Hello</h1>
-            <div className='card-body'>
+            <div className='border border-dark row'>Soumya Kapu</div>
+            
+            <div className='card-ody'>
             <h2>personal details</h2>
             </div>
         </div>
