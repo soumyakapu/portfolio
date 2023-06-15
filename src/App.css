@@ -7,3 +7,68 @@ body{
 .About{
     color: blue;
 } */
+
+.Roles{
+  font-style: italic;
+  font-size:large;
+  color: rgb(115, 116, 35);  
+}
+.list{
+    size: 5ch;
+}
+.twitter{
+    color:rgb(57, 51, 140);
+    margin-left: 75%;
+    margin-right: 25px;
+    /* position: relative; */
+}
+.insta{
+    color: rgb(118, 46, 93);
+    /* position: relative; */
+    margin-right: 25px;
+}
+.linked{
+    color: rgb(64, 123, 242);
+    /* position: relative; */
+    margin-right: 25px;
+}
+.icons{
+    position: -ms-page;
+}
+/* navbar styles */
+.nav{
+    /* margin-right: 5rem;
+    margin-left: 5rem; */
+   
+}
+.home-nav{
+    /* margin-left: 60%;
+    margin-right: 5%; */
+    margin-inline-start: 65%;
+}
+.about-nav{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.port-nav{
+    margin-right: 5px; 
+    margin-left: 5px;
+}
+.skills{
+    /* text-shadow: 2in; */
+   color: rgb(6, 103, 71);
+   
+  }
+  /* Home */
+  .Home-page{
+    background-image: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAOEcdS.img");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-right: 5rem;
+    margin-left: 5rem; */
+}
+.introduce{
+    color: rgb(49, 3, 51);
+    
+}
