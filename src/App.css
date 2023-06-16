@@ -1,13 +1,3 @@
-/* .App{
-    
-}
-body{
-    background-color: dimgray;
-}
-.About{
-    color: blue;
-} */
-
 .Roles{
   font-style: italic;
   font-size:large;
@@ -65,10 +55,28 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* margin-right: 5rem;
-    margin-left: 5rem; */
+    max-width: 90%;
+    min-width: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    padding-top: 20%;
+    padding-bottom: 30%;
 }
 .introduce{
     color: rgb(49, 3, 51);
     
+}
+/* About page */
+.About{
+   background-color: rgb(148, 182, 246);
+   margin: auto;
+   width: 1900px;
+  
+} 
+body{
+    background-color: rgb(226, 233, 243);
+}
+.person_icon{
+   
 }
