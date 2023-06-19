@@ -1,8 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Image } from 'react-bootstrap-icons';
+
 const Home = () =>{
+  
     return(<div>
-    <section className=" Home-page">
+    <section className="img-thumbnail  Home-page">
+      
       <div className='introduce'>
         <p style={{textAlign:'revert-layer',fontSize:'250%'}} className='p-3 m-6 '>
             Hello.... Buddies</p>

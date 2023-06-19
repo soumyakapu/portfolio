@@ -72,11 +72,16 @@ const Portfolio = ()=>{
             <div className='border  bg-secondary'>
             <div className='text-center'>Contact</div>
             <div className='text-left'>Email : soumyakapu@gmail.com</div>
-            <div className='text-left'>Email : soumyakapu@gmail.com</div>
+            {/* <div className='text-left'>Email : soumyakapu@gmail.com</div> */}
             <div className='icons'>
+                <a href="https://www.twitter.com/" target="_blank">
             <Twitter size={'30'} className='twitter'/>
+            </a>
+             <a href="https://www.instagram.com/" target="_blank">
             <Instagram size={'30'} className='insta'/>
-            <Linkedin  size={'30'} className='linked'/>
+            </a>  
+            <a href="https://www.linked.com/" target="_blank">
+          <Linkedin  size={'30'} className='linked'/></a>
            </div>
             
             </div>

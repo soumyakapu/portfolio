@@ -33,17 +33,17 @@
 }
 .home-nav{
     /* margin-left: 60%;
-    margin-right: 5%; */
-    margin-inline-start: 65%;
+    margin-right: 5%; 
+    margin-inline-start: 65%; */
 }
-.about-nav{
+/* .about-nav{
     margin-left: 5%;
     margin-right: 5%;
-}
-.port-nav{
+} */
+/* .port-nav{
     margin-right: 5px; 
     margin-left: 5px;
-}
+} */
 .skills{
     /* text-shadow: 2in; */
    color: rgb(6, 103, 71);

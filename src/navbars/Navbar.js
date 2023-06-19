@@ -3,10 +3,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Navbar = () =>{
     return(
-        <nav className= 'nav bg-info  nav'>
-            <div className='mb-2 home-nav '><NavLink to={'/'} >Home</NavLink></div>
-            <div className='mb-2 about-nav '><NavLink to={'/about'} >About</NavLink></div>
-            <div className="mb-2 port-nav"> <NavLink to={'/portfolio'} >Portfolio</NavLink></div>
+        <nav className= 'navbar navbar-expand-sm bg-success justify-content-end'>
+            <div className=' p-2 badge rounded-pill bg-info '><NavLink to={'/'} >Home</NavLink></div>
+            {/* <div className=' p-2 badge rounded-pill bg-info'><NavLink to={'/about'} >About</NavLink></div> */}
+            <div className=" p-2 badge rounded-pill bg-info"> <NavLink to={'/portfolio'} >Portfolio</NavLink></div>
            
         </nav>
     )
